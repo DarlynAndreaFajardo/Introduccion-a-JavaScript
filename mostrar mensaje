@@ -1,0 +1,12 @@
+<¡DOCTYPE       HTML!>
+<html lang="en">
+<head>
+<Meta charset=”UTF-8”>
+<meta name=”viewport” content=”width=device-width,initial-scake=1.0”>
+<meta htto-equic=”X-UA-compatible”content=”ie-edge”>
+<title>JAVASCRIPT CURSO </title>
+</head>
+<body>
+<h1> Hello World </h1>
+Document.write(“<h1> Hello World”</1>);
+< script src=”app.js”></script>
