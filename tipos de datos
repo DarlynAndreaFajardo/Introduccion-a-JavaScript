@@ -1,0 +1,22 @@
+//Tipos de datos 
+“hello world”//string 
+‘hello world’//string
+1000000//number
+-2.3//number 
+True //boolean
+False //boolean
+//array 
+[ “joe”,“ryan”,“martha” ]
+[1,2,3]
+[True, false , true , false]
+//object
+“ryan”
+70.4
+14
+True
+{
+“Username”: “ryan”,
+“Score”: 70.4 ,
+“Hours”: 14,
+“Profesional”: true
+ }
