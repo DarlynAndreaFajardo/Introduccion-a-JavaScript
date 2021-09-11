@@ -1,0 +1,2 @@
+Console.error(“mi error customizado”) 
+Console.error(“la aplicación a fallado”)
